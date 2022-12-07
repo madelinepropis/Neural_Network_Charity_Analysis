@@ -21,9 +21,11 @@ The purpose of this analysis is to determine the impact of various donations fro
 This model reached an accuracy of 72.6%. This is below our target model performance, 75%. In order to increase model performance, I added one hidden layer, increased the number of neurons in one hidden layer, and changed activation to sigmoid for all layers. Additionally, I included the NAME column as a feature, rather than dropping it like in the original model. This model performed with an accuracy of 78.8%.
 
 Before Optimization:
+
 <img width="517" alt="image" src="https://user-images.githubusercontent.com/109561408/206078080-788baf7e-cc90-4619-8229-722693036aa5.png">
 
 After Optimization:
+
 <img width="532" alt="image" src="https://user-images.githubusercontent.com/109561408/206078028-06c4bde3-2a3b-497e-8f4e-781fefa164f0.png">
 
 ## Summary
